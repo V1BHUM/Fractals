@@ -1,3 +1,3 @@
 # Mandlebrot_Set
-##about
+#about
 This is an interactive UI implementiation of mandlebrot set written in processing APIs,
